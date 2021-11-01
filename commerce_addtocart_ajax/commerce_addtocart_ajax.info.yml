@@ -1,0 +1,9 @@
+name: Commerce BTOB Cart
+type: module
+description: 'Ajaxify the add to cart form from Commerce cart module.'
+package: Commerce
+core_version_requirement: ^8 || ^9
+
+dependencies:
+  - drupal:commerce
+  - drupal:commerce_cart

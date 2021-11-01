@@ -1,0 +1,6 @@
+addtocart.ajax:
+  version: VERSION
+  js:
+    js/addtocartajax.js: { minified: false }
+  dependencies:
+    - core/drupal.ajax

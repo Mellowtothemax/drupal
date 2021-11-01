@@ -1,0 +1,22 @@
+{
+  "name": "drupal/commerce_addtocart_ajax",
+  "description": "Ajaxify the add to cart form from Commerce cart module.",
+  "type": "drupal-module",
+  "keywords": [
+    "Drupal", "Commerce", "Add to cart", "Commerce BTOB Cart"
+  ],
+  "homepage": "https://www.drupal.org/project/commerce_addtocart_ajax",
+  "authors": [
+    {
+      "name": "Fabien Clément",
+      "homepage": "https://www.drupal.org/u/goz",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/commerce_addtocart_ajax"
+  },
+  "require": {
+    "drupal/core": "^8.0 || ^9.0"
+  }
+}
